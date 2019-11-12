@@ -1,0 +1,36 @@
+{
+  "name": "redux-suspense",
+  "version": "0.1.0",
+  "description": "Redux and React suspense data fetching integration",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "keywords": [
+    "react",
+    "redux",
+    "suspense",
+    "data",
+    "fetching",
+    "async",
+    "middleware",
+    "reducer",
+    "status"
+  ],
+  "author": "Pedro Zunino",
+  "license": "ISC",
+  "dependencies": {
+    "redux-pro-kit": "^0.2.0",
+    "immer": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "redux": "^4.x",
+    "react-redux": "^7.x"
+  }
+}
