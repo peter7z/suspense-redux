@@ -1,11 +1,12 @@
 {
-  "name": "redux-suspense",
-  "version": "0.1.0",
+  "name": "suspense-redux",
+  "version": "0.1.1",
   "description": "Redux and React suspense data fetching integration",
   "main": "src/index.js",
   "files": [
     "src",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "keywords": [
     "react",
@@ -18,10 +19,18 @@
     "reducer",
     "status"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter7z/suspense-redux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/peter7z/suspense-redux/issues"
+  },
+  "homepage": "https://github.com/peter7z/suspense-redux",
   "author": "Pedro Zunino",
   "license": "ISC",
   "dependencies": {
-    "redux-pro-kit": "^0.2.0",
+    "redux-pro-kit": "^0.2.1",
     "immer": "^5.0.0"
   },
   "devDependencies": {

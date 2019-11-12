@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/npm/v/suspense-redux.svg)](https://npmjs.org/package/suspense-redux)
+[![License](https://img.shields.io/npm/l/suspense-redux.svg)](https://github.com/peter7z/suspense-redux/blob/master/LICENSE)
 # redux-suspense
 
 A redux middleware that lets you use your own data fetching and expose the results in a [suspense compatible way](https://reactjs.org/docs/concurrent-mode-suspense.html)
