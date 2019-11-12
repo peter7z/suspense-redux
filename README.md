@@ -105,8 +105,8 @@ export function Posts() {
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/peter7z/redux-pro-kit/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/peter7z/suspense-redux/tags). 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details
