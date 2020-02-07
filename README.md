@@ -95,7 +95,7 @@ import { useResource } from 'redux-suspense'
 import { postsResource } from 'src/resources/postsResources.js'
 
 export function Posts() {
-  const users = useResource(postsResource)
+  const posts = useResource(postsResource)
 
   return (
     <div>
